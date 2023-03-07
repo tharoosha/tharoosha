@@ -9,4 +9,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tharoosha-vihidun-b6450019a/) [Gmail](tharooshavihidun@gmail.com)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Flyca&show_icons=true&theme=dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=tharoosha&show_icons=true&theme=dark)
