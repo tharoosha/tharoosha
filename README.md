@@ -13,5 +13,5 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharoosha&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharooshatheme=dark&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharoosha&theme=dark&layout=compact" />
 </a>
