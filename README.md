@@ -4,8 +4,8 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
-- 🔭 I’m currently a CSE student at Unversity of Moratuwa Sri Lanka.
-- 📚 I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB.
+- 🔭 I’m currently a CSE student specialized in Data Science and Engineering  at Unversity of Moratuwa Sri Lanka.
+- 📚 I’m currently learning backend web development using NodeJS, ExpressJS and MongoDB also deep learning.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tharoosha-vihidun-b6450019a/) [Gmail](tharooshavihidun@gmail.com)
 
