@@ -5,7 +5,7 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a Computer Science and Engineering student specialized in Data Science and Engineering at Unversity of Moratuwa Sri Lanka.
-- 📚 I’m currently learning backend web development, Deep learning and AI.
+- 📚 I’m currently learning backend web and mobile app development, Deep learning and AI.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tharoosha-vihidun-b6450019a/) [Gmail](tharooshavihidun@gmail.com)
 
