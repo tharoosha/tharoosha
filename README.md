@@ -12,7 +12,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tharoosha-vihidun-b6450019a/) [Gmail](tharooshavihidun@gmail.com)
 
 
-<a>
+<a href = 'https://github.com/tharoosha'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharoosha&theme=dark&show_icons=true" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharoosha&theme=dark&layout=compact" />
