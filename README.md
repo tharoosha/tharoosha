@@ -13,7 +13,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 <a href = 'https://github.com/tharoosha'>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=tharoosha&theme=dark" />
-  <img height="120em" src="https://streak-stats.demolab.com/?user=tharoosha&theme=dark)](https://git.io/streak-stats" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharoosha&theme=dark&layout=compact" />
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=tharoosha&theme=dark" />
+  <img height="125em" src="https://streak-stats.demolab.com/?user=tharoosha&theme=dark)](https://git.io/streak-stats" />
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharoosha&theme=dark&layout=compact" />
 </a>
