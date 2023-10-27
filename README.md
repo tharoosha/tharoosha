@@ -8,7 +8,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🔭 I’m currently a Computer Science and Engineering student specialized in Data Science and Engineering at Unversity of Moratuwa Sri Lanka.
 - 📚 I’m currently learning backend web and mobile app development, Deep learning and AI.
-- 👯 I’m looking for a software development internship. 
+- 👯 Hands on experience in Deep learning & machine learning, different CNN architecture for image/video processing, GenAI
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tharoosha-vihidun-b6450019a/) [Gmail](tharooshavihidun@gmail.com)
 
 
