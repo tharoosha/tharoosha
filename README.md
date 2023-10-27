@@ -13,7 +13,23 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 <a href = 'https://github.com/tharoosha'>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=tharoosha&theme=dark" />
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=tharoosha&" />
   <img height="125em" src="https://streak-stats.demolab.com/?user=tharoosha&theme=dark)](https://git.io/streak-stats" />
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharoosha&theme=dark&layout=compact" />
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharoosha&layout=compact" />
 </a>
+
+<br>
+<p>
+<div align=center>
+
+![github](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![github](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
+![github](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)
+![github](https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg)
+![github](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
+![github](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
+![github](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
+![github](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg)
+
+</div>
+</p>
