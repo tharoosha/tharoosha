@@ -30,6 +30,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 ![github](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
 ![github](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
 ![github](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg)
+![github](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 
 </div>
 </p>
